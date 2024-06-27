@@ -88,7 +88,5 @@ In the "Filter Recipes" tab, you can filter recipes based on specific criteria:
 - **Field Validation:**
     - Ensure all required fields are filled correctly before adding ingredients or steps.
     
-### Contact
 
-For any issues or questions, please contact [your-email@example.com].
 
